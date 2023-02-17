@@ -240,6 +240,32 @@
             "block_third_party_cookies": "Block all third-party cookies",
             "block_all_cookies": "Block all cookies",
             "clear_browsing_data": "Clear browsing data"
+        },
+        "border_blugins_settings": {
+            "ask_before_third_party_install": "Ask before installing blugins from third-party sites",
+            "manage_blugins": "Manage blugins"
+        },
+        "border_localization_settings": {
+            "language": "Language"
+        },
+        "border_about_settings": {
+            "stable_release": "Stable Release",
+            "canary_release": "Canary",
+            "windows_11": "Border % on Windows 11",
+            "windows_10": "Border % on Windows 10",
+            "windows_81": "Border % on Windows 8.1",
+            "windows_8": "Border % on Windows 8",
+            "windows_7": "Border % on Windows 7",
+            "windows_vista": "Border % on Windows Vista",
+            "windows_longhorn": "Border % on Windows Codename Longhorn",
+            "windows_xp": "Border % on Windows XP",
+            "windows96_rel2sp1": "Border % on Windows 96 v2 SP1",
+            "windows96_rel2sp2": "Border % on Windows 96 v2 SP2",
+            "windows96_v2lite": "Border % on Windows 96 v2 Lite",
+            "windows_96_rel3": "Border % on Windows 96 v3",
+            "border_for_web": "Border % for Web",
+            "mac_os_9": "Border % on Mac OS 9",
+            "osx_"
         }
     }
 }
