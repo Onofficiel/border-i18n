@@ -24,12 +24,36 @@
         },
         "border_print_daemon": {
             "print_button": "Print",
+            "save_button": "Save",
             "cancel_button": "Cancel",
             "double_siding": "Print double-sided",
             "pages_per_sheet": "Pages per sheet",
             "destination": "Destination",
             "one_page": "1 Page",
-            "multiple_pages": "% Pages"
+            "multiple_pages": "% Pages",
+            "layout": "Layout",
+            "portrait_layout": "Portrait",
+            "landscape_layout": "Landscape",
+            "paper_size": "Paper Size",
+            "paper_size_letter": "Letter",
+            "paper_size_legal": "Legal",
+            "default_option": "Default",
+            "custom_option": "Custom",
+            "none_option": "None",
+            "all_option": "All",
+            "minimum_option": "Minimum",
+            "maximum_option": "Maximum",
+            "scale": "Scale",
+            "headers_and_footers": "Show Headers and Footers",
+            "background_graphics": "Include Background Graphics",
+            "margins": "Margins",
+            "pages": "Pages",
+            "save_as_pdf": "Save as PDF",
+            "more_destinations": "More destinations...",
+            "copies": "Copies",
+            "color_mode": "Color Mode",
+            "color_color": "Print in Color",
+            "color_black_and_white": "Print in Black and White"
         }
     }
 }
