@@ -337,6 +337,16 @@
             "reveal": "Reveal",
             "switch_cursor": "Switch cursor",
             "how_to_play": "How to play?"
+        },
+        "content_settings_prompt": {
+            "camera": "Allow % to access your camera?",
+            "microphone": "Allow % to access your microphone?",
+            "camera_microphone": "Allow % to access your camera and microphone?",
+            "geolocation": "Allow % to know your physical location?",
+            "web_midi": "Allow % to access your MIDI devices?",
+            "motion_sensors": "Allow % to access your device's motion sensors?",
+            "install_blugins": "Allow % to install blugins and themes?",
+            "": ""
         }
     }
 }
