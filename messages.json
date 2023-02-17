@@ -231,6 +231,7 @@
             "secondary_color": "Secondary color",
             "manage_themes": "Manage themes",
             "install_more_themes": "Install more themes"
-        }
+        },
+        "border_cookies_settings": {}
     }
 }
