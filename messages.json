@@ -1,14 +1,18 @@
 {
     "en-US": {
         "border_ui": {
-            "share_button": "Share",
+            "share_url": "Share",
+            "bookmark_url": "Add to bookmarks",
             "navigate_back": "Back",
             "navigate_forward": "Forward",
             "refresh_page": "Reload",
             "print_page": "Print",
             "bookmarks": "Bookmarks",
             "browsing_history": "History",
+            "preferences": "Preferences",
             "downloads": "Downloads",
+            "manage_blugins": "Blugins",
+            "manage_themes": "Themes",
             "new_tab": "New Tab",
             "new_window": "New Window",
             "private_window": "New Private Window",
