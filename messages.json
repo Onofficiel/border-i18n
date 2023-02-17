@@ -56,6 +56,28 @@
             "color_black_and_white": "Print in Black and White",
             "one_sheet": "1 Sheet of Paper",
             "multiple_sheets": "% Sheets of Paper"
+        },
+        "border_dialogs": {
+            "ok_button": "OK",
+            "cancel_button": "Cancel",
+            "yes_button": "Yes",
+            "no_button": "No",
+            "leave_button": "Leave",
+            "leave_page": "Leave this page?",
+            "unsaved_changes": "Changes you made may have not been saved.",
+            "add_to_bookmarks": "Add to Bookmarks",
+            "bookmark_title": "Title",
+            "bookmark_url": "URL",
+            "save_button": "Save",
+            "open_button": "Open",
+            "send_button": "Send",
+            "install_button": "Install",
+            "remove_button": "Remove",
+            "delete_button": "Delete",
+            "report_blugin": "Report this blugin",
+            "report_theme": "Report this theme",
+            "remove_blugin": "Uninstall %?",
+            "remove_generic": "Remove %?"
         }
     }
 }
