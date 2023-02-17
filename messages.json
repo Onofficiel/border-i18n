@@ -1,6 +1,23 @@
 {
-    "border_ui": {},
-    "border_security": {},
-    "border_console": {},
-    "border_web_store"
+    "en-US": {
+        "border_ui": {
+            "share_button": "Share",
+            "navigate_back": "Back",
+            "navigate_forward": "Forward",
+            "refresh_page": "Reload",
+            "print_page": "Print",
+            "bookmarks": "Bookmarks",
+            "browsing_history": "History",
+            "downloads": "Downloads",
+            "new_tab": "New Tab",
+            "new_window": "New Window",
+            "private_window": "New Private Window",
+            "close_tab": "Close Tab",
+            "close_window": "Close",
+            "max_window": "Maximize",
+            "min_window": "Minimize",
+            "restore_window": "Restore"
+        },
+        "border_web_store": {}
+    }
 }
