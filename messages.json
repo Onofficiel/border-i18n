@@ -76,8 +76,7 @@
             "delete_button": "Delete",
             "report_blugin": "Report this blugin",
             "report_theme": "Report this theme",
-            "remove_blugin": "Uninstall %?",
-            "remove_generic": "Remove %?",
+            "remove_blugin_or_theme": "Remove %?",
             "upload_button": "Upload"
         },
         "border_file_picker": {
@@ -101,6 +100,16 @@
             "hide_hidden_files": "Hide Hidden Files",
             "already_exists": "A file with that name already exists, do you want to replace it?",
             "replace_button": "Replace"
+        },
+        "border_blugin_installer": {
+            "install_blugin": "Install %?",
+            "permission_list": "% will have permission to:",
+            "install_button": "Install",
+            "cancel_button": "Cancel",
+            "allow_blugin_install": "Allow % to install blugins?",
+            "third_party_warning": "Blugins installed from third-party sites are not checked or verified by the Border Team.",
+            "allow_button": "Allow",
+            "dont_allow_button": "Don't Allow"
         }
     }
 }
