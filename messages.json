@@ -186,6 +186,51 @@
             "encrypt_aes128": "AES 128",
             "encrypt_aes256": "AES 256"
         },
-        "border_settings": {}
+        "border_settings": {
+            "sync": "Border Sync",
+            "general": "General",
+            "privacy": "Privacy",
+            "search": "Search",
+            "downloads": "Downloads",
+            "appearance": "Appearance",
+            "cookies": "Cookies and Cache",
+            "blugins": "Blugins",
+            "localization": "Localization",
+            "advanced": "Advanced",
+            "about": "About"
+        },
+        "border_general_settings": {
+            "make_default_browser": "Make default",
+            "border_is_default": "Border is your default browser!",
+            "border_is_not_default": "Border isn't your default browser."
+        },
+        "border_privacy_settings": {
+            "do_not_track": "Do not track",
+            "warn_about_dangerous_sites": "Warn about dangerous websites",
+            "website_permissions": "Website permissions",
+            "ssl_certificates": "Manage SSL certificates"
+        },
+        "border_search_settings": {
+            "default_search_engine": "Default search engine",
+            "manage_search_engines": "Manage search engines",
+            "add_search_engine": "Add search engine",
+            "remove": "Remove",
+            "move_up": "Move up",
+            "move_down": "Move down",
+            "make_default": "Make default",
+            "edit": "Edit"
+        },
+        "border_downloads_settings": {
+            "ask_where_to_download": "Always ask where to download",
+            "default_download_location": "Save files to"
+        },
+        "border_appearance_settings": {
+            "color_scheme": "Color scheme",
+            "restore_original_colors": "Restore original colors",
+            "primary_color": "Primary color",
+            "secondary_color": "Secondary color",
+            "manage_themes": "Manage themes",
+            "install_more_themes": "Install more themes"
+        }
     }
 }
