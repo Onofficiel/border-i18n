@@ -1,1 +1,6 @@
-
+{
+    "border_ui": {},
+    "border_security": {},
+    "border_console": {},
+    "border_web_store"
+}
