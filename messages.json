@@ -307,19 +307,24 @@
             "confirm_resubmission": "You've already submitted information to this page. If you refresh this page, the information will be submitted again.",
             "refuse_to_embed": "This website doesn't allow you to embed it inside of other websites. Try viewing the website in a new tab.",
             "p3_disconnected": "In order to connect to a P3 peer, you'll need to be connected to the P3 network. Try checking your P3 settings.",
-            "ip_is_down": "The server you tried to connect is down.",
-            "rate_limitted": "You've reached the maximum request limit for this resource",
-            "query_too_large": "The request is too large for the server to handle",
-            "url_too_large": "The URL is too long for the server to handle",
-            "client_not_authenticated": "Authentication is required to access this resource",
-            "payment_required": "A payment is required to access this resource",
-            "not_acceptable": "The request sent was invalid",
-            "im_a_teapot": "The server contacted is a teapot",
-            "resource_locked": "The resource requested has been locked",
-            "legally_forbidden": "The resource requested is illegal",
-            "server_error": "The server encountered an internal error",
-            "service_unavailable": "The service is currently unavailable",
-            "timed_out": "The server didn't respond to your request in enough time."
+            "ip_is_down": "The server you tried to connect is currently down. Try contacting the server owner.",
+            "rate_limitted": "The server is preventing you from accessing it for a certain amount of time. Try waiting before contacting it again.",
+            "query_too_large": "The request body you sent was too large for the server to process. Try sending a smaller request body.",
+            "url_too_large": "The URL is too longer for the server to handle properly. Try limiting query parameters and the length of their values.",
+            "client_not_authenticated": "You aren't authenticated, so the server can't tell if you're allowed to access this resource. Try logging in to the server first.",
+            "payment_required": "The resource you request requires a payment in order to be accessed. Try sending a payment or logging into an account to access the resource.",
+            "not_acceptable": "The request body you sent to the server was invalid or malformed. Try resending the request and rewriting the request body.",
+            "im_a_teapot": "The server cannot brew coffee like you requested because it is a teapot. Try making a request to a coffee maker, or send a request to store tea instead.",
+            "resource_locked": "The server has locked the resource you requested to access.",
+            "legally_forbidden": "The resource you requested contains illegal content and is not allowed in your country. Try enabling or disabling your VPN.",
+            "server_error": "The server encountered an unspecified internal error. Try contacting the server owner.",
+            "service_unavailable": "The service you requested is current unavailable. Try waiting or contacting the server owner.",
+            "timed_out": "The server didn't respond to your request in enough time. Try contacting the server owner."
+        },
+        "minesweeper": {
+            "minesweeper": "Mine Sweeper",
+            "how_to_play_label": "How to play MineSweeper?",
+            ""
         }
     }
 }
