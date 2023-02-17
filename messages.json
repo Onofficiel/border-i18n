@@ -135,7 +135,12 @@
             "server_error": "An unknown error occurred on the server."
         },
         "border_sync": {
-            "login_prompt": ""
+            "sign_in": "Sign in to Border Sync",
+            "border_sync": "Border Sync",
+            "sync_description": "Sync your bookmark, settings, blugins, and themes across devices.",
+            "manage_devices": "Manage your devices",
+            "sign_out": "Sign out of Border Sync",
+            "sync_settings": "Choose what to sync"
         }
     }
 }
