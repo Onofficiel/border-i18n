@@ -42,5 +42,5 @@
 * Close
 * Duplicate
 * Pin
-* Mute
+* Mute/Unmute
 * Share
