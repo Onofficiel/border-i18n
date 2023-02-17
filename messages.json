@@ -7,6 +7,7 @@
             "navigate_forward": "Forward",
             "refresh_page": "Reload",
             "print_page": "Print",
+            "find_in_page": "Find",
             "bookmarks": "Bookmarks",
             "browsing_history": "History",
             "preferences": "Preferences",
@@ -140,7 +141,51 @@
             "sync_description": "Sync your bookmark, settings, blugins, and themes across devices.",
             "manage_devices": "Manage your devices",
             "sign_out": "Sign out of Border Sync",
-            "sync_settings": "Choose what to sync"
-        }
+            "pause_sync": "Pause sync",
+            "resume_sync": "Resume sync",
+            "signed_out": "Your device was signed out. You'll need to sign in to Border Sync again."
+        },
+        "border_password_save_dialog": {
+            "save_password": "Save password for this site?",
+            "save_password_text": "Border will automatically fill in your username and password for you.",
+            "save_button": "Save",
+            "cancel_button": "Don't Save",
+            "never_ask_again": "Never Save",
+            "username": "Username",
+            "password": "Password"
+        },
+        "border_password_manager": {
+            "password_manager_label": "Passwords",
+            "search_for_passwords": "Search for passwords",
+            "website_label": "Website",
+            "username_label": "Username",
+            "password_label": "Password",
+            "show_password": "Show Password",
+            "hide_password": "Hide Password",
+            "export_passwords": "Export passwords",
+            "export_password": "Export password",
+            "remove_button": "Remove",
+            "cancel_button": "Cancel",
+            "remove_passwords": "Remove the selected passwords?",
+            "remove_password_details": "The selected passwords will be permanently deleted."
+        },
+        "border_password_export": {
+            "export_passwords": "Export Passwords",
+            "export_button": "Export",
+            "cancel_button": "Cancel",
+            "format": "Export as",
+            "format_json": "JSON",
+            "format_json_enc": "JSON (Encrypted)",
+            "format_xml": "XML",
+            "format_xml_enc": "XML (Encrypted)",
+            "format_csv": "CSV Spreadsheet",
+            "format_ini": "INI",
+            "encryption_key": "Encryption key",
+            "encrypt": "Encryption type",
+            "encrypt_auto": "Detect automatically",
+            "encrypt_aes128": "AES 128",
+            "encrypt_aes256": "AES 256"
+        },
+        "border_settings": {}
     }
 }
