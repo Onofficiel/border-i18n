@@ -114,7 +114,7 @@
             "theme_description": "Themes changes the look and feel of Border.",
             "add_button": "Add"
         },
-        "border_sync": {
+        "border_sync_login": {
             "login_prompt": "Sign in to Border Sync",
             "create_account": "Create a Border Sync account",
             "username_prompt": "Username",
@@ -130,7 +130,9 @@
             "forgot_password": "Forgot password?",
             "password_reset_title": "Reset Your Password",
             "password_reset": "Enter your username and email address. If you entered your email address correctly, we'll send you a link to reset your password.",
-            "sign_up_link": "Create a new account"
+            "sign_up_link": "Create a new account",
+            "log_in_link": "I already have an account",
+            "server_error": "An unknown error occurred on the server."
         }
     }
 }
