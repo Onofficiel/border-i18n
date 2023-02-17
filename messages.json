@@ -362,7 +362,23 @@
         },
         "content_settings": {
             "camera": "Camera",
-            "microphone": "Microphone"
+            "microphone": "Microphone",
+            "geolocation": "Location",
+            "web_midi": "MIDI Devices",
+            "web_usb": "USB Devices",
+            "web_bt": "Bluetooth Devices",
+            "motion_sensors": "Motion Sensors",
+            "images": "Images",
+            "javascript": "JavaScript",
+            "drm_media": "Encrypted Media (DRM)",
+            "drm_identifiers": "DRM Identifiers",
+            "autoplay": "Autoplay",
+            "file_editing": "File editing",
+            "install_blugins": "Install blugins",
+            "execute_wasm": "WebAssembly",
+            "battery_monitor": "Battery",
+            "third_party_cookies": "Third-party cookies",
+            "allow_tracking": "Allow this website to track you"
         }
     }
 }
