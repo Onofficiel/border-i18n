@@ -360,6 +360,9 @@
             "deny_button": "Don't Allow",
             "allow_button": "Allow"
         },
-        "content_settings": {}
+        "content_settings": {
+            "camera": "Camera",
+            "microphone": "Microphone"
+        }
     }
 }
