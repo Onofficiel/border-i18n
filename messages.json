@@ -133,6 +133,9 @@
             "sign_up_link": "Create a new account",
             "log_in_link": "I already have an account",
             "server_error": "An unknown error occurred on the server."
+        },
+        "border_sync": {
+            "login_prompt": ""
         }
     }
 }
