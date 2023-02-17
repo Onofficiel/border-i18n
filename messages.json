@@ -252,7 +252,48 @@
             "stable_release": "Stable Release",
             "canary_release": "Canary",
             "border_for_web": "Border % for Web",
-            "border_gecko": "Border %1 on %2"
+            "border_gecko": "Border %1 on %2",
+            "send_feedback_button": "Send feedback"
+        },
+        "border_danger_warning": {
+            "dangerous_website": "The website you are visiting is dangerous",
+            "phishing_website_details": "The website you are visiting is a phishing website that may disguise itself as another website to obtain sensitive information from you.",
+            "malware_website_details": "The website you are visiting is known to spread malware, viruses, worms, and trojans that may steal your information or damage your computer.",
+            "malicious_download": "The file you downloaded contains malware.",
+            "malicious_download_details": "Border prevented the down because it contained malicious code that could damage your system.",
+            "ssl_error_website": "The website you are visiting's SSL certificate is invalid",
+            "non_matching_domains": "The website you are visiting is located at %1, but its SSL certificate belongs to %2. An attacker might be trying to intercept your connections to send malware or obtain sensitive information.",
+            "expired_certificate": "The website's SSL certificate expired %1 days ago on %2.",
+            "future_certificate": "The website's SSL certificate was issued on %1, approximately %2 days in the future.",
+            "wild_card_certificate": "The website's SSL certificate is issued to all domains using a wildcard. This means an attacker or the government could be trying to intercept your network requests.",
+            "download_anyway": "Download Anyway",
+            "dismiss": "Dismiss",
+            "back_to_safety": "Back to safety",
+            "proceed_to_unsafe_site": "Proceed to unsafe site"
+        },
+        "border_error_titles": {
+            "ip_not_found": "The domain couldn't be resolved",
+            "resource_not_found": "The resource requested could not be found",
+            "refused_to_connect": "This websitesite refused to connect",
+            "resource_forbidden": "You aren't allowed to access this resource",
+            "no_internet": "No internet connection",
+            "p3_peer_offline": "The peer is offline",
+            "p3_refused_to_connect": "The peer refused to connect",
+            "confirm_resubmission": "Confirm form resubmission",
+            "refuse_to_embed": "This website can't be embedded",
+            "p3_disconnected": "You aren't connect to the P3 network",
+            "ip_is_down": "This server could not be reached",
+            "rate_limitted": "You've reached the maximum request limit for this resource",
+            "query_too_large": "The request is too large for the server to handle",
+            "url_too_large": "The URL is too long for the server to handle",
+            "client_not_authenticated": "Authentication is required to access this resource",
+            "payment_required": "A payment is required to access this resource",
+            "not_acceptable": "The request sent was invalid",
+            "im_a_teapot": "The server contacted is a teapot",
+            "resource_locked": "The resource requested has been locked",
+            "legally_forbidden": "The resource requested is illegal",
+            "server_error": "The server encountered an internal error",
+            "service_unavailable": "The service is currently unavailable"
         }
     }
 }
