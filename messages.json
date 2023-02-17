@@ -346,7 +346,20 @@
             "web_midi": "Allow % to access your MIDI devices?",
             "motion_sensors": "Allow % to access your device's motion sensors?",
             "install_blugins": "Allow % to install blugins and themes?",
-            "": ""
-        }
+            "drm_identifiers": "Allow % to use identifiers to play encrypted media?",
+            "javascript": "Allow % to use JavaScript?",
+            "images": "Allow % to display images?",
+            "autoplay": "Allow % to play automatically audio and video?",
+            "share_usb": "Select a USB device to share",
+            "share_bluetooth": "Select a Bluetooth device to share",
+            "file_modify": "Allow this site to modify %?",
+            "usb_share_warning": "When you share a USB device, your handing information about it to this website.",
+            "bluetooth_share_warning": "When you share a Bluetooth device, your handing information about it to this website.",
+            "share_button": "Share",
+            "cancel_button": "Cancel",
+            "deny_button": "Don't Allow",
+            "allow_button": "Allow"
+        },
+        "content_settings": {}
     }
 }
