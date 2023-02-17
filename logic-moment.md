@@ -38,4 +38,9 @@
 * Save as
 * Rotate left
 * Rotate right
-## 
+## tab context menu
+* Close
+* Duplicate
+* Pin
+* Mute
+* Share
