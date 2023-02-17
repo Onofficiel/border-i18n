@@ -103,13 +103,34 @@
         },
         "border_blugin_installer": {
             "install_blugin": "Install %?",
-            "permission_list": "% will have permission to:",
+            "permission_list": "This blugin will have permission to:",
             "install_button": "Install",
             "cancel_button": "Cancel",
-            "allow_blugin_install": "Allow % to install blugins?",
+            "allow_blugin_install": "Allow % to install blugins and themes?",
             "third_party_warning": "Blugins installed from third-party sites are not checked or verified by the Border Team.",
             "allow_button": "Allow",
-            "dont_allow_button": "Don't Allow"
+            "dont_allow_button": "Don't Allow",
+            "add_theme": "Add %?",
+            "theme_description": "Themes changes the look and feel of Border.",
+            "add_button": "Add"
+        },
+        "border_sync": {
+            "login_prompt": "Sign in to Border Sync",
+            "create_account": "Create a Border Sync account",
+            "username_prompt": "Username",
+            "email_prompt": "Email address",
+            "password_prompt": "Password",
+            "incorrect_password": "The password you entered is incorrect.",
+            "invalid_username": "The username you entered doesn't exist.",
+            "username_taken": "The username you entered is already taken.",
+            "verify_email": "Verify Your Email Address",
+            "verify_email_code": "Enter the code that was sent to your email.",
+            "sign_in_button": "Sign in",
+            "create_account_button": "Create account",
+            "forgot_password": "Forgot password?",
+            "password_reset_title": "Reset Your Password",
+            "password_reset": "Enter your username and email address. If you entered your email address correctly, we'll send you a link to reset your password.",
+            "sign_up_link": "Create a new account"
         }
     }
 }
