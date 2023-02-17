@@ -324,7 +324,19 @@
         "minesweeper": {
             "minesweeper": "Mine Sweeper",
             "how_to_play_label": "How to play MineSweeper?",
-            ""
+            "how_to_play_1": "Click the tiles to show their values.",
+            "how_to_play_2": "The value means the number of mines that there is in the eight tiles around this tile.",
+            "how_to_play_3": "If you think a tile is trapped, right click (or long click) the tile to put a flag on it.",
+            "how_to_play_4": "If you dug all the safe tile, you win.",
+            "how_to_play_5": "But if you dig on a single mine, you lose.",
+            "close_button": "Close",
+            "map_size": "Map Size:",
+            "mines": "Mines:",
+            "flags_left": "Flag(s) left:",
+            "restart": "Restart",
+            "reveal": "Reveal",
+            "switch_cursor": "Switch cursor",
+            "how_to_play": "How to play?"
         }
     }
 }
