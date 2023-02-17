@@ -274,14 +274,14 @@
         "border_error_titles": {
             "ip_not_found": "The domain couldn't be resolved",
             "resource_not_found": "The resource requested could not be found",
-            "refused_to_connect": "This websitesite refused to connect",
+            "refused_to_connect": "This website refused to connect",
             "resource_forbidden": "You aren't allowed to access this resource",
             "no_internet": "No internet connection",
             "p3_peer_offline": "The peer is offline",
             "p3_refused_to_connect": "The peer refused to connect",
             "confirm_resubmission": "Confirm form resubmission",
             "refuse_to_embed": "This website can't be embedded",
-            "p3_disconnected": "You aren't connect to the P3 network",
+            "p3_disconnected": "You aren't connected to the P3 network",
             "ip_is_down": "This server could not be reached",
             "rate_limitted": "You've reached the maximum request limit for this resource",
             "query_too_large": "The request is too large for the server to handle",
@@ -293,7 +293,33 @@
             "resource_locked": "The resource requested has been locked",
             "legally_forbidden": "The resource requested is illegal",
             "server_error": "The server encountered an internal error",
-            "service_unavailable": "The service is currently unavailable"
+            "service_unavailable": "The service is currently unavailable",
+            "timed_out": "The request has timed out"
+        },
+        "border_error_messages": {
+            "ip_not_found": "We were unable to find an IP address associated with the requested domain. Try checking your system's DNS settings.",
+            "resource_not_found": "The resource you requested for could not be found on the server. It may have been moved or deleted.",
+            "refused_to_connect": "The website refused to connect to your web browser. Try in private browsing mode, or in a different browser.",
+            "resource_forbidden": "The server has forbidden you from accessing the resource you requested. Make sure you're logged in with the right credentials.",
+            "no_internet": "Check your router, Wifi settings, cellular network, or Ethernet connection. While you're waiting, why not play a nice game of minesweeper?",
+            "p3_peer_offline": "The peer you tried to connect to is currently not connected to the P3 network.",
+            "p3_refused_to_connect": "The peer you tried to connect to refused your connection.",
+            "confirm_resubmission": "You've already submitted information to this page. If you refresh this page, the information will be submitted again.",
+            "refuse_to_embed": "This website doesn't allow you to embed it inside of other websites. Try viewing the website in a new tab.",
+            "p3_disconnected": "In order to connect to a P3 peer, you'll need to be connected to the P3 network. Try checking your P3 settings.",
+            "ip_is_down": "The server you tried to connect is down.",
+            "rate_limitted": "You've reached the maximum request limit for this resource",
+            "query_too_large": "The request is too large for the server to handle",
+            "url_too_large": "The URL is too long for the server to handle",
+            "client_not_authenticated": "Authentication is required to access this resource",
+            "payment_required": "A payment is required to access this resource",
+            "not_acceptable": "The request sent was invalid",
+            "im_a_teapot": "The server contacted is a teapot",
+            "resource_locked": "The resource requested has been locked",
+            "legally_forbidden": "The resource requested is illegal",
+            "server_error": "The server encountered an internal error",
+            "service_unavailable": "The service is currently unavailable",
+            "timed_out": "The server didn't respond to your request in enough time."
         }
     }
 }
