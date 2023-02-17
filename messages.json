@@ -77,7 +77,30 @@
             "report_blugin": "Report this blugin",
             "report_theme": "Report this theme",
             "remove_blugin": "Uninstall %?",
-            "remove_generic": "Remove %?"
+            "remove_generic": "Remove %?",
+            "upload_button": "Upload"
+        },
+        "border_file_picker": {
+            "open_button": "Open",
+            "save_button": "Save",
+            "select_button": "Select",
+            "open_folder_button": "Open Folder",
+            "cancel_button": "Cancel",
+            "open_file": "Select a file to open",
+            "save_file": "Save file as",
+            "open_folder": "Select a folder to open",
+            "sort": "Sort by...",
+            "sort_alpha": "Name",
+            "sort_type": "File Type",
+            "sort_date": "Modification Date",
+            "sort_up": "Ascending",
+            "sort_down": "Descending",
+            "grid_view": "Grid View",
+            "stack_view": "Stack View",
+            "show_hidden_files": "Show Hidden Files",
+            "hide_hidden_files": "Hide Hidden Files",
+            "already_exists": "A file with that name already exists, do you want to replace it?",
+            "replace_button": "Replace"
         }
     }
 }
