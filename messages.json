@@ -22,6 +22,14 @@
             "min_window": "Minimize",
             "restore_window": "Restore"
         },
-        "border_web_store": {}
+        "border_print_daemon": {
+            "print_button": "Print",
+            "cancel_button": "Cancel",
+            "double_siding": "Print double-sided",
+            "pages_per_sheet": "Pages per sheet",
+            "destination": "Destination",
+            "one_page": "1 Page",
+            "multiple_pages": "% Pages"
+        }
     }
 }
