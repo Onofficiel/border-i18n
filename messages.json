@@ -232,6 +232,14 @@
             "manage_themes": "Manage themes",
             "install_more_themes": "Install more themes"
         },
-        "border_cookies_settings": {}
+        "border_cookies_settings": {
+            "manage_website_data": "Manage website data",
+            "allow_all_cookies": "Allow all cookies",
+            "block_third_party_in_private": "Block third-party cookies in private browsing mode",
+            "block_third_party_unvisited": "Block third-party cookies from sites you've never visited",
+            "block_third_party_cookies": "Block all third-party cookies",
+            "block_all_cookies": "Block all cookies",
+            "clear_browsing_data": "Clear browsing data"
+        }
     }
 }
