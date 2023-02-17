@@ -91,14 +91,6 @@
 * Share image
 * Record image
 * Inspect
-## P3 RTOP context menu
-* Back
-* Forward
-* Reload
-* End connection
-* Reconnect
-* Share connection
-* Save connection as
 ## textbox context menu
 * Copy
 * Cut
@@ -106,4 +98,29 @@
 * Paste as plain text
 * Save content as
 * Inspect
-## 
+## triple dot menu
+* New tab
+* New window
+* New private window
+* Share
+* Find text
+* Save as
+* Zoom
+* Print
+* Bookmarks
+* History
+* Blugins
+* Themes
+* Preferences
+* Send feedback
+* Exit Border
+* About
+## permission prompts
+Allow ... to access your camera and microphone?
+Allow ... to detect your physical location?
+Allow ... to access your MIDI devices?
+Allow ... to read your device's motion sensors?
+Allow ... to use identifiers to play encrypted media?
+Allow ... to read your device's battery information?
+Share a USB device with this site
+Share a Bluetooth device with this site
