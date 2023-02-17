@@ -330,7 +330,13 @@
             "mirrazz_os_core": "Border % on MirrazzOS Core",
             "mirrazz_os_for_tvs": "Border % on MirrazzOS for TVs",
             "mirrazzde": "Border % on MirrazzOS",
-            "mirrazz_os_mobile": "Border % on MirrazzOS Mobile"
+            "mirrazz_os_mobile": "Border % on MirrazzOS Mobile",
+            "unknown_platform": "Border %",
+            "linux_platform": "Border % on Linux",
+            "windows_platform": "Border % on Windows",
+            "windows_ce": "Border % on Windows Embedded CE",
+            "mac_platform": "Border % on Mac OS",
+            "unix_platform": "Border % on UNIX-Based Operating System"
         }
     }
 }
